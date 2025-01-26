@@ -37,7 +37,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 3: Mocking and Spying
+### Day 3: Mocking and Spying [Lesson](https://github.com/fix2015/mocking_and_spying/tree/main/introduction_to_unit_testing/README.md)
 - **0-5 minutes**: Review the Home Task from Day 2.  
 - **5-10 minutes**: Understand what mocks and spies are and why they're useful.  
 - **10-20 minutes**: Use Jest to mock a function and test API calls.  
