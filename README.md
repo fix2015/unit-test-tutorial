@@ -28,7 +28,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 2: Writing Your First Tests
+### Day 2: Writing Your First Tests [Lesson](https://github.com/fix2015/writing_your_first_tests/tree/main/introduction_to_unit_testing/README.md)
 - **0-5 minutes**: Review the Home Task from Day 1.  
 - **5-10 minutes**: Learn how to use `describe()`, `it()`, and `expect()` in Jest.  
 - **10-20 minutes**: Write tests for string manipulation functions (e.g., `capitalize()`, `reverse()`).  

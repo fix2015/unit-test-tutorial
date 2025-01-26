@@ -76,7 +76,6 @@ test('adds two numbers correctly', () => {
    ```
 
 ---
-z
 ## Home Task: Write a Test for a Simple Math Utility Function
 - Write a test for a function `subtract(a, b)` that subtracts one number from another.  
 - Use Jest to verify the function works for different inputs, including edge cases like negative numbers or zero.

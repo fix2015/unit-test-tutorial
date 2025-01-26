@@ -24,13 +24,13 @@
   - "As we start testing more complex functions, organizing tests becomes essential. Jest provides tools like `describe()` and `it()` to group and document our tests effectively."
 - **Demonstrate with Examples**:
   - Walk through this example on the board or screen:
-    \`\`\`javascript
+    ```javascript
     describe('String manipulation functions', () => {
       it('capitalizes the first letter of a string', () => {
         expect(capitalize('hello')).toBe('Hello');
       });
     });
-    \`\`\`
+    ```
   - Explain:
     - **`describe()`**: Groups related tests (e.g., all string manipulation functions).
     - **`it()`**: Describes a single test case.
@@ -48,11 +48,11 @@
     - `reverse()`: Reverses the characters in a string.
 - **Guide Through Examples**:
   - Show this test for `reverse()`:
-    \`\`\`javascript
+    ```javascript
     it('reverses a string correctly', () => {
       expect(reverse('hello')).toBe('olleh');
     });
-    \`\`\`
+    ```
   - Ask students: "What edge cases might break this function?"
     - Example answers: Empty strings, strings with spaces, or special characters.
 - **Activity**:
@@ -77,11 +77,11 @@
   - Explain the function `filterEvenNumbers(arr)`:
     - It takes an array of numbers and removes all even numbers.
   - Provide examples:
-    \`\`\`javascript
+    ```javascript
     filterEvenNumbers([1, 2, 3, 4]); // [1, 3]
     filterEvenNumbers([]);          // []
     filterEvenNumbers([2, 4, 6]);   // []
-    \`\`\`
+    ```
 - **Encourage Edge Case Testing**:
   - "Think about cases where the array is empty, has negative numbers, or contains very large numbers."
 - **Motivate with a Challenge**:
