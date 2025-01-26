@@ -64,21 +64,12 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 6: Advanced Testing Techniques
+### Day 6: Advanced Testing Techniques  [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/advanced_testing_techniques/README.md)
 - **0-5 minutes**: Review the Home Task from Day 5.  
 - **5-10 minutes**: Learn snapshot testing with Jest.  
 - **10-20 minutes**: Test performance and memory leaks in your code.  
 - **20-30 minutes**: Practice testing Redux or Context API state management.  
 - **Home Task**: Write advanced tests for a React component using hooks.
-
----
-
-### Day 7: Real-World Project and Revision
-- **0-5 minutes**: Review the Home Task from Day 6.  
-- **5-10 minutes**: Revise all key concepts from the tutorial.  
-- **10-20 minutes**: Implement unit tests for a real-world project (e.g., a to-do app or weather app).  
-- **20-30 minutes**: Solve testing challenges on [Codewars](https://www.codewars.com/) or [LeetCode](https://leetcode.com/).  
-- **Final Task**: Create a testing checklist for your own projects.
 
 ---
 
