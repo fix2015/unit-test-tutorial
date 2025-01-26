@@ -28,7 +28,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 2: Writing Your First Tests [Lesson](https://github.com/fix2015/writing_your_first_tests/tree/main/introduction_to_unit_testing/README.md)
+### Day 2: Writing Your First Tests [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/writing_your_first_tests/README.md)
 - **0-5 minutes**: Review the Home Task from Day 1.  
 - **5-10 minutes**: Learn how to use `describe()`, `it()`, and `expect()` in Jest.  
 - **10-20 minutes**: Write tests for string manipulation functions (e.g., `capitalize()`, `reverse()`).  
@@ -37,7 +37,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 3: Mocking and Spying [Lesson](https://github.com/fix2015/mocking_and_spying/tree/main/introduction_to_unit_testing/README.md)
+### Day 3: Mocking and Spying [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/mocking_and_spying/README.md)
 - **0-5 minutes**: Review the Home Task from Day 2.  
 - **5-10 minutes**: Understand what mocks and spies are and why they're useful.  
 - **10-20 minutes**: Use Jest to mock a function and test API calls.  
@@ -46,7 +46,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 4: Testing Asynchronous Code
+### Day 4: Testing Asynchronous Code [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/testing_asynchronous_code/README.md)
 - **0-5 minutes**: Review the Home Task from Day 3.  
 - **5-10 minutes**: Learn how to test promises and async/await functions.  
 - **10-20 minutes**: Write tests for an API client function.  
