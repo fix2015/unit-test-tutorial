@@ -20,7 +20,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 1: Introduction to Unit Testing
+### Day 1: Introduction to Unit Testing [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/introduction_to_unit_testing/README.md)
 - **0-5 minutes**: Understand what unit testing is and why it's important.  
 - **5-15 minutes**: Learn the structure of a test: `Arrange`, `Act`, `Assert`.  
 - **15-30 minutes**: Set up a basic testing environment with [Jest](https://jestjs.io/).  
