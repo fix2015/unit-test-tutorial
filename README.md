@@ -55,7 +55,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 
 ---
 
-### Day 5: Testing React Components
+### Day 5: Testing React Components [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/testing_react_components/README.md)
 - **0-5 minutes**: Review the Home Task from Day 4.  
 - **5-10 minutes**: Set up React Testing Library.  
 - **10-20 minutes**: Write tests for a functional React component.  
