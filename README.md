@@ -70,6 +70,8 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **20-30 minutes**: Test user interactions using `fireEvent`.  
 - **Home Task**: Write tests for a component with props and state.
 
+[Tiktok Video](https://www.tiktok.com/@jsmentoring/video/7464722159252950305)
+
 ---
 
 ### Day 6: Advanced Testing Techniques  [Lesson](https://github.com/fix2015/unit-test-tutorial/tree/main/advanced_testing_techniques/README.md)
