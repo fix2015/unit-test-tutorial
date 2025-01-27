@@ -81,6 +81,8 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **20-30 minutes**: Practice testing Redux or Context API state management.  
 - **Home Task**: Write advanced tests for a React component using hooks.
 
+[Tiktok Video](https://www.tiktok.com/@jsmentoring/video/7464728945380855073)
+
 ---
 
 ## Tools and Libraries for Unit Testing
