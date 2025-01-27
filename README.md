@@ -25,6 +25,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **5-15 minutes**: Learn the structure of a test: `Arrange`, `Act`, `Assert`.  
 - **15-30 minutes**: Set up a basic testing environment with [Jest](https://jestjs.io/).  
 - **Home Task**: Write a test for a simple math utility function (e.g., `add(a, b)`).
+[Video](https://www.tiktok.com/@jsmentoring/video/7464709013570178337)
 
 ---
 
@@ -34,6 +35,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **10-20 minutes**: Write tests for string manipulation functions (e.g., `capitalize()`, `reverse()`).  
 - **20-30 minutes**: Discuss the importance of edge cases.  
 - **Home Task**: Write tests for array utility functions (e.g., `filterEvenNumbers()`).
+[Video](https://www.tiktok.com/@jsmentoring/video/7464712778339601696)
 
 ---
 
@@ -43,6 +45,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **10-20 minutes**: Use Jest to mock a function and test API calls.  
 - **20-30 minutes**: Practice spying on a function’s behavior.  
 - **Home Task**: Mock a `fetch` call to test an async function.
+[Video](https://www.tiktok.com/@jsmentoring/video/7464717052184366369)
 
 ---
 
