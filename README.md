@@ -55,6 +55,7 @@ This plan is structured to help you learn unit testing concepts and apply them i
 - **10-20 minutes**: Write tests for an API client function.  
 - **20-30 minutes**: Handle errors in asynchronous code during testing.  
 - **Home Task**: Write tests for a function that interacts with an external API.
+[Video](https://www.tiktok.com/@jsmentoring/video/7464719468304862497)
 
 ---
 
